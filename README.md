@@ -14,7 +14,7 @@
 
 <h4>Connect with me:<h4>
 <p>
-  <a href="https://twitter.com/jagexasherz><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg"/></a>
+  <a href="https://www.twitter.com/jagexasherz/><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/></a>
   <a href="https://www.linkedin.com/in/ashley-shaw-58487a15/"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 </p>
 
