@@ -1,30 +1,38 @@
-<h3>Hi there :wave:, I'm Ashley :smile: </h3>
+### Hi there :wave:, I'm Ashley :smile:
 <p align="center">
   <a href="https://Asherz2013.github.io" target="_blank"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&url=https%3A%2F%2FAsherz2013.github.io"></a>
   <a href="https://twitter.com/asherz2009" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asherz2009?color=1DA1F2&logo=Twitter&style=for-the-badge"></a>
 </p>
-<h3>I'm a Developer, Husband and Father :family: </h3>
+
+###I'm a Developer, Husband and Father :family: </h3>
 
 <hr>
 
 <ul>
-<li>I'm trying to learn everything :exploding_head:
-<li>202X Goals: Lean more Unreal and contribute more
+<li>Looking to improve my programming skills
+<li>Looking to help contribute where I can
 </ul>
 
 <h4>Connect with me:<h4>
 <p>
-  <a href="https://www.twitter.com/asherz2009/"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
-  <a href="https://www.linkedin.com/in/ashley-shaw-58487a15/"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+  
+  [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/asherz2009/)
+  
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashley-shaw-58487a15/)
+    
 </p>
 
 <h4>Languages and Tools:<h4>
 <p>
-  <img src="https://img.shields.io/badge/VS%20Code-badge-blue.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/bitbucket%20-%230047B3.svg?&style=for-the-badge&logo=bitbucket&logoColor=white"/>
-  <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  
+  ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  
+  ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  
+  ![Git Hub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  
+  ![Bit Bucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
+  
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  
 <p>
