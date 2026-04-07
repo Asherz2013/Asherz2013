@@ -12,9 +12,8 @@
 
 <h4>Connect with me:<h4>
 <p>
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=social&logo=linkedin&logoColor=white)
   
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashley-shaw-58487a15/)
+  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashley-shaw-58487a15/)
 
 </p>
 
